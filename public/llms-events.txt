@@ -1,0 +1,18 @@
+# Pascal AI Labs: Events
+
+> Recaps of the invite-only roundtables Pascal AI Labs hosts with partners and the industry conferences it attends, written from Pascal's point of view.
+
+## Invite-only roundtables
+- [ECI AI Forum: Building a Firm's Memory](https://pascalailabs.com/events/eci-ai-forum-hong-kong-2026): Our talk at the ECI AI Forum in Hong Kong, October 28, 2026: why the reasoning behind investment decisions gets lost, and how decision traces save it for AI agents.
+- [Roundtable Dinner With Bare Cove Technology](https://pascalailabs.com/events/bare-cove-roundtable-dinner-hong-kong-2026): Our October 27, 2026 roundtable dinner in Hong Kong with Bare Cove Technology: which AI workflows reached production, build or buy, and what the SFC and HKMA expect.
+- [Lunch and Learn at Macquarie](https://pascalailabs.com/events/macquarie-lunch-and-learn-hong-kong-2026): Our lunch and learn at Macquarie in Hong Kong: how buy-side research is changing, how to connect AI to fund data safely, and live decision trace demos.
+- [Breakfast With Atlas Technica in London](https://pascalailabs.com/events/atlas-technica-london-breakfast-2026): Our private breakfast at The Connaught in London with Atlas Technica: where alternative investment firms find an edge when every fund has the same AI models.
+- [Goldman Sachs AI Workshop in Singapore and Hong Kong](https://pascalailabs.com/events/goldman-sachs-ai-workshop-singapore-hong-kong-2026): What we learned at Goldman Sachs Prime Services Consulting's AI Workshop 2026 for hedge fund managers in Singapore and Hong Kong on May 19 and 20, 2026.
+- [Hedge Fund Roundtable With Bank of America](https://pascalailabs.com/events/bofa-hedge-fund-roundtable-new-york-2025): Our December 2025 roundtable in New York with Bank of America's Prime Brokerage Consulting team and more than 20 hedge funds on moving from AI copilots to AI agents.
+
+## Conferences
+- [MFA Ops: Data, Tech & AI 2026](https://pascalailabs.com/events/mfa-ops-data-tech-ai-2026): What we heard at MFA Ops: Data, Tech & AI 2026 in New York: data foundations, measuring AI returns, limits for AI agents and vendor consolidation.
+- [AIMA APAC Annual Forum 2026](https://pascalailabs.com/events/aima-apac-annual-forum-hong-kong-2026): Our takeaways from the AIMA APAC Annual Forum in Hong Kong, October 29, 2026: AI adoption at fund managers, accountability, accuracy and data risks.
+- [Global Fintech Fest 2026](https://pascalailabs.com/events/global-fintech-fest-mumbai-2026): What banks, asset managers and market institutions asked us at our Global Fintech Fest 2026 booth in Mumbai: AI agents, regulation and data governance.
+- [InvestOps Asia 2026](https://pascalailabs.com/events/investops-asia-singapore-2026): Six lessons from InvestOps Asia 2026 in Singapore on AI for investment operations: data foundations, moving pilots to production and private markets documents.
+- [Global Alts Miami 2026](https://pascalailabs.com/events/global-alts-miami-2026): Six signals from Global Alts Miami 2026 on AI in alternative investments: AI in due diligence, in-house data as the edge, AI washing and private credit data.
